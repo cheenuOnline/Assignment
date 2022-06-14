@@ -34,17 +34,17 @@ Tip – When on DashBoard, you can shake your device or click on ↑ button to g
 You can click on 🔍to search a movie. Click on the movie to get more details of it and even add it in your WatchList.
 
 
+
+You can access your WatchList in the side menu.
+
 ![image](https://user-images.githubusercontent.com/107471690/173549889-e7154323-de66-4168-97e0-342a08ebb54d.png)
 
 ![image](https://user-images.githubusercontent.com/107471690/173549912-2afd361d-8088-4e0c-bb37-f5e3951b211c.png)
 
 
 
-You can access your WatchList in the side menu.
 
-![image](https://user-images.githubusercontent.com/107471690/173550003-8e0a63da-9dbc-4302-8131-f5ee5b26032e.png)
 
-![image](https://user-images.githubusercontent.com/107471690/173550032-1f30b8a9-6dfc-45e3-9f2c-67d9c2adc01d.png)
 
 
 A group chat feature is also introduced in the application where you can chat with your friends and suggest movies to each other. You can join a group with a dedicated group code. A  Default group is also present for your convenience. All groups of a user are displayed in the dashboard at top.
