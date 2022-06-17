@@ -23,25 +23,28 @@ On the Dashboard you will get random movie suggestions based on your preferred g
 
 Tip – When on DashBoard, you can shake your device or click on ↑ button to get movies which your friends have suggested.
 
-
+You can click on 🔍to search a movie. Click on the movie to get more details of it and even add it in your WatchList.
 
 ![image](https://user-images.githubusercontent.com/107471690/173549821-98332f1d-9b02-4ecf-a18a-98e086bd5734.png)
 
 ![image](https://user-images.githubusercontent.com/107471690/173549839-658ef80b-19aa-4c01-a56f-24b105f18f25.png)
 
+![Screenshot_2022-06-17-19-24-24-87_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174312844-143cbd8e-70d6-4e6c-87cb-2b60fcd95e8e.jpg)
 
 		 
-You can click on 🔍to search a movie. Click on the movie to get more details of it and even add it in your WatchList.
 
 
+You can create and access your WatchList in the side menu. Lists can be of 2 types- Public & Private. Anyone with the list code can join the Public group meanwhile Private lists can be accessed only by it's creator.
 
-You can access your WatchList in the side menu.
+![Screenshot_2022-06-17-19-13-31-32_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174311276-61a4a3ea-0717-4933-99fd-d64aa6db8f39.jpg)
 
-![image](https://user-images.githubusercontent.com/107471690/173549889-e7154323-de66-4168-97e0-342a08ebb54d.png)
+![Screenshot_2022-06-17-19-13-36-58_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174311844-4f951c5f-b675-4a51-8e62-1f9b766c85fd.jpg)
 
-![image](https://user-images.githubusercontent.com/107471690/173549912-2afd361d-8088-4e0c-bb37-f5e3951b211c.png)
+![Screenshot_2022-06-17-19-13-46-30_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174311433-2f6beb4c-f4d6-4817-9211-a53f849f0cb2.jpg)
 
+![Screenshot_2022-06-17-19-14-33-03_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174312101-a0e25fd0-6198-4e98-8604-421b03d042b9.jpg)
 
+![Screenshot_2022-06-17-19-14-16-51_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174312112-62f59bdf-8d17-4482-a445-62a21f154514.jpg)
 
 
 
