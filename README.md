@@ -27,7 +27,6 @@ You can click on 🔍to search a movie. Click on the movie to get more details o
 
 ![image](https://user-images.githubusercontent.com/107471690/173549821-98332f1d-9b02-4ecf-a18a-98e086bd5734.png)
 
-![image](https://user-images.githubusercontent.com/107471690/173549839-658ef80b-19aa-4c01-a56f-24b105f18f25.png)
 
 ![image](https://user-images.githubusercontent.com/107471690/174313798-a0dc8a9b-48cd-4e19-9dfc-c94e70f89b74.png)
 
