@@ -29,24 +29,23 @@ You can click on 🔍to search a movie. Click on the movie to get more details o
 
 ![image](https://user-images.githubusercontent.com/107471690/173549839-658ef80b-19aa-4c01-a56f-24b105f18f25.png)
 
-![Screenshot_2022-06-17-19-24-24-87_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174312844-143cbd8e-70d6-4e6c-87cb-2b60fcd95e8e.jpg)
+![image](https://user-images.githubusercontent.com/107471690/174313798-a0dc8a9b-48cd-4e19-9dfc-c94e70f89b74.png)
+
 
 		 
 
 
 You can create and access your WatchList in the side menu. Lists can be of 2 types- Public & Private. Anyone with the list code can join the Public group meanwhile Private lists can be accessed only by it's creator.
 
-![Screenshot_2022-06-17-19-13-31-32_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174311276-61a4a3ea-0717-4933-99fd-d64aa6db8f39.jpg)
+![image](https://user-images.githubusercontent.com/107471690/174313850-d971d570-96b5-4152-b6f2-b4a5bc28f688.png)
 
-![Screenshot_2022-06-17-19-13-36-58_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174311844-4f951c5f-b675-4a51-8e62-1f9b766c85fd.jpg)
+![image](https://user-images.githubusercontent.com/107471690/174313886-e8c22aec-3480-4b3e-abe5-cc8a13140a2b.png)
 
-![Screenshot_2022-06-17-19-13-46-30_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174311433-2f6beb4c-f4d6-4817-9211-a53f849f0cb2.jpg)
+![image](https://user-images.githubusercontent.com/107471690/174313948-b906b34d-40cb-46a1-8feb-2e94973369b4.png)
 
-![Screenshot_2022-06-17-19-14-33-03_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174312101-a0e25fd0-6198-4e98-8604-421b03d042b9.jpg)
+![image](https://user-images.githubusercontent.com/107471690/174313980-7cdd7bfd-4fa3-4e8a-918d-5517ddac6596.png)
 
-![Screenshot_2022-06-17-19-14-16-51_d2bddde69068aeb28f3168d01ded07ec](https://user-images.githubusercontent.com/107471690/174312112-62f59bdf-8d17-4482-a445-62a21f154514.jpg)
-
-
+![image](https://user-images.githubusercontent.com/107471690/174314000-11137e6c-bd74-4dae-9ef6-0df1404a013e.png)
 
 
 
